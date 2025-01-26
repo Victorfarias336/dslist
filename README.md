@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-dslist é uma aplicação backend construida durante o **Intensivão Java Spring** (#dslist-backend). O evento foi organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior"). 
+dslist é uma aplicação backend construida durante o **Intensivão Java Spring** (#dslist-backend). O evento foi organizado pela [DevSuperior](https://devsuperior.com.br). 
 
 A aplicação consiste em recuperar uma lista a partir de um banco de dados utilizando o padrão rest, além da lista também é possivel recuperar objetos individuais pelo seu id e organizar a posição desses objetos na lista.
 
